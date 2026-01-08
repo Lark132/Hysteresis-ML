@@ -1,0 +1,5 @@
+Seed: 37
+Neurons1: 18
+Neurons2: 14
+LearningRate: 0.01
+Epochs: 400
